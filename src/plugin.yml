@@ -1,0 +1,8 @@
+main: com.fadecloud.Main
+name: FadeJuul
+version: 1.0
+author: PapaMew
+description: Blow some phat clouds
+commands:
+      juul:
+               description: main command

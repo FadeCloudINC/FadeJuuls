@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FadeJuul:jar">
+    <output-path>$PROJECT_DIR$/../../test/plugins</output-path>
+    <root id="archive" name="FadeJuul.jar">
+      <element id="module-output" name="FadeJuul" />
+    </root>
+  </artifact>
+</component>
